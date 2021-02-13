@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.6.0.QJVCNXM/miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+  ROM_URL: https://mde1.androidfilehost.com/dl/gxeDgEKuiShHOdKsRFpJcA/1613283343/17248734326145728667/xiaomi.eu_multi_HMNote7_21.2.3_v12-10.zip?
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
